@@ -1,8 +1,16 @@
-# woodoo
-developers:
-Kevser Akkuş (211216047)
-Rukiye Hayat Saraç (211216063)
+# deneme_modulu
 
-[Supervisor: Keyvan Arasteh] (https://github.com/keyvanarasteh/)
+A new Flutter project.
 
-![sc](https://user-images.githubusercontent.com/99832419/206873859-c358a281-5f10-4080-bc1c-bac890f2c1aa.jpg)
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
